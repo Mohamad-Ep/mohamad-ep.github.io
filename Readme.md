@@ -2,6 +2,6 @@
 
 **This is Personal Web**
 
-> test Web : [test](https://mohamad-ep.github.io)
+> test Web : [mohamad-ep.github.io](https://mohamad-ep.github.io)
 
-> ***main Web : [main](https://mohamadensafpour.com/)***
+> ***main Web : [mohamadensafpour.com](https://mohamadensafpour.com/)***
